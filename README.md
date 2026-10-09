@@ -20,7 +20,7 @@ vocalist:by me
 Training:by me
 -V1 was speedrun for dec 31st right before new years and i meet my goal on the last day :D
 
--also extra Note im nb (nonbinary and or agender) So I do feminine and masculine voices cause their fun and like drawing
+-also extra Note im nb (nonbinary) So I do feminine and masculine voices cause their fun and like drawing
 
 this was made with this colab: https://colab.research.google.com/github/usamireko/DiffSinger4Colab/blob/main/DiffSinger_colab_notebook.ipynb
 
